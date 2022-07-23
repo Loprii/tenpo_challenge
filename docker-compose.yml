@@ -2,7 +2,7 @@ version: '3.1'
 services:
   app:
     container_name: app
-    image: loprii/challenge:latest
+    image: flopriore/tenpo_challenge:latest
     build: ./
     ports:
       - "8080:8080"
@@ -15,4 +15,4 @@ services:
     environment:
       - POSTGRES_PASSWORD=password
       - POSTGRES_USER=postgres
-      - POSTGRES_DB=mydb
+      - POSTGRES_DB=db

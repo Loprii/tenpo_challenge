@@ -20,7 +20,7 @@
 
 - URL con la coleccion de postman: https://www.getpostman.com/collections/aff479d5b5a3fd853eae
 
-- URL con la imagen docker: https://hub.docker.com/r/loprii/tenpo_challenge/
+- URL con la imagen docker: https://hub.docker.com/r/flopriore/tenpo_challenge
 
 
 
